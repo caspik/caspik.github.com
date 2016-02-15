@@ -1,3 +1,3 @@
 caspik.github.com
 =================
-files for caspik.info
+files for caspik.me
